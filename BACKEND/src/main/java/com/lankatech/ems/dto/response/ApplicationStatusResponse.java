@@ -1,5 +1,6 @@
 package com.lankatech.ems.dto.response;
 
+import com.lankatech.ems.model.CandidateApplication;
 import com.lankatech.ems.model.Employee;
 
 // Result of changing an application's status.
